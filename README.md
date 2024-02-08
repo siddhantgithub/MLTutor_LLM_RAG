@@ -1,4 +1,4 @@
-ML Maestro (In Planning)
+ML Maestro (Ongoing)
 ==============================
 A virtual teacher to teach Machine Learning using LLM and Generative AI. The solution uses RAG system built using Mistral 7B open source LLM
 
