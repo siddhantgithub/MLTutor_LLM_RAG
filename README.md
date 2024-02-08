@@ -1,4 +1,4 @@
-ML Maestro (Ongoing)
+ML Maestro - A virtual ML teacher based on RAG system built on Mistral-7B (Ongoing)
 ==============================
 A virtual teacher to teach Machine Learning using LLM and Generative AI. The solution uses RAG system built using Mistral 7B open source LLM
 
@@ -14,6 +14,7 @@ The ideal way to teach a subject like Data Science/ Machine Learning/ AI would b
 - Python, PyTorch
 - HuggingFace Transformers
 - LlamaIndex
+- Mistal-7B
 - AutoML + Databricks + Azure ML (For Production)
 
 ![image](https://github.com/siddhantgithub/MLTutor_LLM_RAG/assets/1327717/e0fe2808-d4d4-486d-a153-adb1289347fc)
