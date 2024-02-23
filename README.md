@@ -1,7 +1,23 @@
-ML_Tutor
+ML Maestro - A virtual ML teacher based on RAG system built on Mistral-7B (Ongoing)
 ==============================
-
 A virtual teacher to teach Machine Learning using LLM and Generative AI. The solution uses RAG system built using Mistral 7B open source LLM
+
+## Need
+
+There are many software engineers with an extensive programming background who want to build technical skills in the field of Machine Learning and AI, but, unfortunately, a lot of material on the internet is either too generic or assumes existing field knowledge. Further, many learning programs focus on teaching individual pieces first such as maths, statstics, Python, etc., which are important but starting with those can be demotivating for many. 
+
+The ideal way to teach a subject like Machine Learning/ AI would be through teaching the whole game first - which means showing the big picture - and then teaching small steps to build the big picture. That means if you are teaching piano you first take the student to a piano concert or making them play piano. You don't teach them about reading music sheets or how a piano works. This  approach is based on the book Making Learning Whole by Harvard professor David Perkins. I came across this approach while going through fast.ai course and I was just amazed at how much progress I could make in a short time. 
+
+**The aim of this project to build a personal tutor using a RAG system that can teach the topic of Machine Learning like a personal tutor would do by using the 'big picture' approach described above.**
+
+## Technologies
+- Python, PyTorch
+- HuggingFace Transformers
+- LlamaIndex
+- Mistal-7B
+- AutoML + Databricks + Azure ML (For Production)
+
+![image](https://github.com/siddhantgithub/MLTutor_LLM_RAG/assets/1327717/e0fe2808-d4d4-486d-a153-adb1289347fc)
 
 Project Organization
 ------------
